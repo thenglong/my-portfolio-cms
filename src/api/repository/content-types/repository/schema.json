@@ -24,6 +24,11 @@
     "description": {
       "type": "string",
       "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true,
+      "unique": false
     }
   }
 }
