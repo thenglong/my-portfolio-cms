@@ -1,0 +1,20 @@
+{
+  "name": "provider-upload-firebase",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^10.0.2"
+  },
+  "author": {
+    "name": "Thenglong Heng"
+  },
+  "strapi": {
+    "isProvider": true
+  },
+  "engines": {
+    "node": ">=14.x.x <=16.x.x",
+    "npm": ">=8.0.0"
+  },
+  "license": "UNLICENSED"
+}
