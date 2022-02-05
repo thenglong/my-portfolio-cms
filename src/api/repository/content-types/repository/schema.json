@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "repositories",
+  "info": {
+    "singularName": "repository",
+    "pluralName": "repositories",
+    "displayName": "Repository",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "tech": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
