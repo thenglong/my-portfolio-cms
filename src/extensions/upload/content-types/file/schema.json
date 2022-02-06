@@ -84,7 +84,7 @@
       "configurable": false
     },
     "blurData": {
-      "type": "string",
+      "type": "text",
       "configurable": false
     }
   }
