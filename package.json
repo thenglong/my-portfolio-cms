@@ -16,6 +16,7 @@
     "@strapi/strapi": "4.0.7",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
+    "plaiceholder": "^2.2.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
     "sqlite3": "5.0.2"
   },
