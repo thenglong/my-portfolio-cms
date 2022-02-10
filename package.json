@@ -18,7 +18,8 @@
     "pg-connection-string": "^2.5.0",
     "plaiceholder": "^2.2.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
-    "sqlite3": "5.0.2"
+    "sqlite3": "5.0.2",
+    "strapi-plugin-config-sync": "^1.0.0-beta.8"
   },
   "author": {
     "name": "A Strapi developer"
