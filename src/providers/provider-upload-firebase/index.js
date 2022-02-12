@@ -6,7 +6,9 @@ module.exports = {
     // initialize firebase provider
     if (!bucket) {
       if (admin.apps.length === 0) {
-        const credential = admin.credential.cert(providerOptions.serviceAccount);
+        const credential = admin.credential.cert(
+          providerOptions.serviceAccount,
+        );
 
         admin.initializeApp({
           credential,
@@ -46,7 +48,7 @@ function uploadFile(file, customParams, providerOptions) {
         //using the url norms given by firebase storage, instead of getting them from getUrl() function
         file.url = `https://storage.googleapis.com/${providerOptions.bucket}/${filename}`;
         resolve();
-      }
+      },
     );
   });
 }
