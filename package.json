@@ -22,7 +22,7 @@
     "pg-connection-string": "^2.5.0",
     "plaiceholder": "^2.3.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
-    "sharp": "0.29.3",
+    "sharp": "0.30.1",
     "sqlite3": "5.0.2",
     "strapi-plugin-config-sync": "^1.0.0-beta.8",
     "strapi-plugin-entity-relationship-chart": "^4.0.2"
