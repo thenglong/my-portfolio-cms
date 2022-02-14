@@ -20,7 +20,7 @@
     "lodash": "^4.17.21",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
-    "plaiceholder": "^2.2.0",
+    "plaiceholder": "^2.3.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
     "sharp": "0.29.3",
     "sqlite3": "5.0.2",
