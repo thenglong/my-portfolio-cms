@@ -4,6 +4,10 @@ const crypto = require("crypto");
 const util = require("util");
 const _ = require("lodash");
 const { getPlaiceholder } = require("plaiceholder");
+const tinify = require("tinify");
+
+tinify.key = process.env.TINIFY_API_KEY;
+
 const {
   sanitize,
   nameToSlug,
@@ -98,6 +102,14 @@ module.exports = plugin => {
         }
         throw e;
       }
+
+      /**
+       * Compress witn tinify
+       */
+      readBuffer = await tinify.fromBuffer(readBuffer).toBuffer();
+      /**
+       * End Compress witn tinify
+       */
 
       const { optimize } = strapi
         .plugin("upload")
