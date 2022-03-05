@@ -12,11 +12,11 @@
     "lint:fix": "eslint --fix ."
   },
   "dependencies": {
-    "@strapi/plugin-graphql": "^4.1.0",
-    "@strapi/plugin-i18n": "4.1.0",
-    "@strapi/plugin-users-permissions": "4.1.0",
-    "@strapi/strapi": "4.1.0",
-    "@strapi/utils": "^4.1.0",
+    "@strapi/plugin-graphql": "^4.1.2",
+    "@strapi/plugin-i18n": "4.1.2",
+    "@strapi/plugin-users-permissions": "4.1.2",
+    "@strapi/strapi": "4.1.2",
+    "@strapi/utils": "^4.1.2",
     "lodash": "^4.17.21",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
@@ -40,8 +40,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^8.9.0",
-    "eslint-config-prettier": "^8.4.0",
+    "eslint": "^8.10.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.5.1"
   }
