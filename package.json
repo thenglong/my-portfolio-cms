@@ -23,7 +23,7 @@
     "plaiceholder": "^2.3.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
     "sharp": "0.29.3",
-    "sqlite3": "5.0.2",
+    "sqlite3": "5.0.3",
     "strapi-plugin-config-sync": "^1.0.0",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "tinify": "^1.6.1"
