@@ -13,7 +13,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@strapi/plugin-graphql": "^4.1.7",
+    "@strapi/plugin-graphql": "^4.1.8",
     "@strapi/plugin-i18n": "4.1.8",
     "@strapi/plugin-users-permissions": "4.1.8",
     "@strapi/strapi": "4.1.8",
@@ -23,7 +23,7 @@
     "pg-connection-string": "^2.5.0",
     "plaiceholder": "^2.3.0",
     "provider-upload-firebase": "file:src/providers/provider-upload-firebase",
-    "sharp": "0.29.3",
+    "sharp": "^0.30.4",
     "strapi-plugin-config-sync": "^1.0.0",
     "strapi-plugin-entity-relationship-chart": "^4.1.0",
     "tinify": "^1.6.1"
