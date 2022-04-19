@@ -10,6 +10,7 @@ module.exports = [
             "'self'",
             "data:",
             "blob:",
+            "dl.airtable.com", // plugin
             "storage.googleapis.com",
           ],
           upgradeInsecureRequests: null,
