@@ -16,7 +16,7 @@
     "@strapi/plugin-graphql": "^4.1.11",
     "@strapi/plugin-i18n": "4.1.11",
     "@strapi/plugin-users-permissions": "4.1.11",
-    "@strapi/strapi": "4.1.11",
+    "@strapi/strapi": "4.1.12",
     "better-sqlite3": "^7.5.3",
     "lodash": "^4.17.21",
     "pg": "^8.7.3",
