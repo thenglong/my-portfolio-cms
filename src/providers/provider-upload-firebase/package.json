@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "firebase-admin": "^10.2.0"
+    "firebase-admin": "^11.0.0"
   },
   "author": {
     "name": "Thenglong Heng"
