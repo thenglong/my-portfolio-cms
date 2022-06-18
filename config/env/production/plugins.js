@@ -3,6 +3,7 @@ module.exports = ({ env }) => {
   const bucket = env("FIREBASE_STORAGE_BUCKET");
 
   return {
+    "duplicate-button": true,
     upload: {
       enable: true,
       config: {
