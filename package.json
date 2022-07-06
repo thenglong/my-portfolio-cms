@@ -13,7 +13,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@offset-dev/strapi-calendar": "^0.0.6",
+    "@offset-dev/strapi-calendar": "^0.0.7",
     "@strapi/plugin-graphql": "^4.2.2",
     "@strapi/plugin-i18n": "4.2.2",
     "@strapi/plugin-sentry": "^4.2.2",

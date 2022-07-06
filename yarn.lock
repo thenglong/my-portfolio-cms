@@ -1894,10 +1894,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@offset-dev/strapi-calendar@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@offset-dev/strapi-calendar/-/strapi-calendar-0.0.6.tgz#6935f4f058651b574062cb08c0bb35903243b45a"
-  integrity sha512-xH2onCC7vIipZYAXbB/xKUbJEigomofCBHAMLdm7Kp3sGAdsyIcTQo+1KnDK88YpzkK7XezzbW6lz1liJaqX9g==
+"@offset-dev/strapi-calendar@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@offset-dev/strapi-calendar/-/strapi-calendar-0.0.7.tgz#f17067b072e98e8f0dcf5cce286583b299cf2a00"
+  integrity sha512-wIbAx20VePaw2fg0FyVr6Bt6XaQLrU4blonpDRyVGl3QN6lp0BrRhCNH9Fqgj5vGrOuB0GyQhlWBZyp2vSYBAA==
   dependencies:
     "@devexpress/dx-react-core" "^3.0.3"
     "@devexpress/dx-react-scheduler" "^3.0.3"
