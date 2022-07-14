@@ -2439,10 +2439,10 @@
   dependencies:
     "@sentry/node" "6.19.6"
 
-"@strapi/plugin-seo@^1.7.3":
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/@strapi/plugin-seo/-/plugin-seo-1.7.3.tgz#94b3c647a199544d40b78940b83ee7ad6a8f6159"
-  integrity sha512-4SNFHljS3OirgQgFF68BfysB3vHu2X7pF1Pco7Gs0gatebshsTtg1PsHihKd2j07CkEfdxpRSt9wVknwabb7HA==
+"@strapi/plugin-seo@^1.7.4":
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/@strapi/plugin-seo/-/plugin-seo-1.7.4.tgz#0f6d48f96a136e954cb1bd44fb59e5b2d8d2c8e0"
+  integrity sha512-e1AXkuXZLEpWiXAXuEdIxTkzH7qh6GiMw62coqiFN8/O3VzacTzOXzqCj1MY+CRky0EBBde1VmDVqlTrZm9Ltw==
   dependencies:
     eslint-plugin-react-hooks "^4.3.0"
     lodash "^4.17.21"
