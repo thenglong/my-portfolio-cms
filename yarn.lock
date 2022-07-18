@@ -3810,10 +3810,10 @@ bcryptjs@2.4.3:
   resolved "https://registry.yarnpkg.com/bcryptjs/-/bcryptjs-2.4.3.tgz#9ab5627b93e60621ff7cdac5da9733027df1d0cb"
   integrity sha512-V/Hy/X9Vt7f3BbPJEi8BdVFMByHi+jNXrYkW3huaybV/kQ0KJg0Y6PkEMbn+zeT+i+SiKZ/HMqJGIIt4LZDqNQ==
 
-better-sqlite3@^7.6.0:
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/better-sqlite3/-/better-sqlite3-7.6.0.tgz#66444ba12985071b9070b2b16d10e586ae4ad581"
-  integrity sha512-wYckL8S8RHP+KKNsZuJGZ7z/6FFmVgwd0U8jSv6t997C+EFR1yvi8p2WIpTb10jiV5rRA5VtMdgtAZFcAnK3Iw==
+better-sqlite3@^7.6.2:
+  version "7.6.2"
+  resolved "https://registry.yarnpkg.com/better-sqlite3/-/better-sqlite3-7.6.2.tgz#47cd8cad5b9573cace535f950ac321166bc31384"
+  integrity sha512-S5zIU1Hink2AH4xPsN0W43T1/AJ5jrPh7Oy07ocuW/AKYYY02GWzz9NH0nbSMn/gw6fDZ5jZ1QsHt1BXAwJ6Lg==
   dependencies:
     bindings "^1.5.0"
     prebuild-install "^7.1.0"
