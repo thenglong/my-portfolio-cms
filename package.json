@@ -15,7 +15,7 @@
   "dependencies": {
     "@offset-dev/strapi-calendar": "^0.0.7",
     "@strapi/plugin-graphql": "^4.2.3",
-    "@strapi/plugin-i18n": "4.2.2",
+    "@strapi/plugin-i18n": "4.2.3",
     "@strapi/plugin-sentry": "^4.2.3",
     "@strapi/plugin-seo": "^1.7.4",
     "@strapi/plugin-users-permissions": "4.2.3",
