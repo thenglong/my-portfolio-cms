@@ -17,7 +17,7 @@
     "@strapi/plugin-graphql": "^4.2.3",
     "@strapi/plugin-i18n": "4.2.2",
     "@strapi/plugin-sentry": "^4.2.2",
-    "@strapi/plugin-seo": "^1.7.3",
+    "@strapi/plugin-seo": "^1.7.4",
     "@strapi/plugin-users-permissions": "4.2.2",
     "@strapi/provider-email-nodemailer": "^4.2.2",
     "@strapi/strapi": "4.2.2",
