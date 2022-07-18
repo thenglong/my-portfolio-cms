@@ -2331,32 +2331,7 @@
     styled-components "^5.2.3"
     whatwg-fetch "^3.6.2"
 
-"@strapi/helper-plugin@4.2.2", "@strapi/helper-plugin@^4.1.1":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@strapi/helper-plugin/-/helper-plugin-4.2.2.tgz#8bdb9a82b391c10ce10ac3ee6b7013601092754c"
-  integrity sha512-ftamIWfwNal3ILu/BIVmaTj5wQRWHA3ie6K4z3hb2iok1EvrwcxoWyBz1hpbhXx3oyzYmk3UIzUyK77H6JQWuQ==
-  dependencies:
-    "@fortawesome/fontawesome-free" "^5.15.2"
-    "@fortawesome/fontawesome-svg-core" "^1.2.35"
-    "@fortawesome/free-brands-svg-icons" "^5.15.2"
-    "@fortawesome/free-solid-svg-icons" "^5.15.3"
-    "@fortawesome/react-fontawesome" "^0.1.14"
-    axios "0.25.0"
-    formik "2.2.9"
-    invariant "^2.2.1"
-    lodash "4.17.21"
-    match-sorter "^4.0.2"
-    moment "^2.29.1"
-    react "^17.0.2"
-    react-dom "^17.0.2"
-    react-helmet "^6.1.0"
-    react-intl "5.20.2"
-    react-router "^5.2.0"
-    react-router-dom "5.2.0"
-    styled-components "5.3.3"
-    whatwg-fetch "^3.6.2"
-
-"@strapi/helper-plugin@4.2.3":
+"@strapi/helper-plugin@4.2.3", "@strapi/helper-plugin@^4.1.1":
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/@strapi/helper-plugin/-/helper-plugin-4.2.3.tgz#4fedf3ddfd98ff2b52e0c48099410a0f0827d53d"
   integrity sha512-Ok2cQ+t+LA3PWXZANRjSbi3/7DQH+r4OQj4az5DyiMdR7ErHVh/kdY0eEvsWV9Cp2t2GqLirrZ0XED7mJsGxHQ==
@@ -2510,13 +2485,13 @@
     react-router-dom "5.2.0"
     sharp "0.30.7"
 
-"@strapi/plugin-users-permissions@4.2.2":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@strapi/plugin-users-permissions/-/plugin-users-permissions-4.2.2.tgz#27faa75a7bf9c56b3ae540db937f4b8ef5ada23b"
-  integrity sha512-OUNcMIODJK5c6zGzVePODuhMX2G9Wj64xiz7tIxaCmU66Hqc+fR7UHeovhFNo4UM1KvyQnO1gZV8G8FdAgjs6Q==
+"@strapi/plugin-users-permissions@4.2.3":
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/@strapi/plugin-users-permissions/-/plugin-users-permissions-4.2.3.tgz#4a7ac9bd64d0826c11585ca601ad26de826f2955"
+  integrity sha512-vljYRu+BzYjHJtr8l/wbl3C8OxCiJsm/l8/22hV3xXCAklDsBZjWqH52swtDhDuQ2mkPHE6a7yr10hXH3Ak67Q==
   dependencies:
-    "@strapi/helper-plugin" "4.2.2"
-    "@strapi/utils" "4.2.2"
+    "@strapi/helper-plugin" "4.2.3"
+    "@strapi/utils" "4.2.3"
     bcryptjs "2.4.3"
     grant-koa "5.4.8"
     jsonwebtoken "^8.1.0"
@@ -2526,7 +2501,7 @@
     react "^17.0.2"
     react-dom "^17.0.2"
     react-intl "5.20.2"
-    react-redux "7.2.3"
+    react-redux "7.2.8"
     react-router "^5.2.0"
     react-router-dom "5.2.0"
     redux-saga "^0.16.0"
@@ -2982,7 +2957,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-redux@^7.1.16", "@types/react-redux@^7.1.20":
+"@types/react-redux@^7.1.20":
   version "7.1.24"
   resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-7.1.24.tgz#6caaff1603aba17b27d20f8ad073e4c077e975c0"
   integrity sha512-7FkurKcS1k0FHZEtdbbgN8Oc6b+stGSfZYjQGicofJ0j4U0qIn/jaSvnP2pLwZKiai3/17xqqxkkrxTgN8UNbQ==
@@ -10560,18 +10535,6 @@ react-query@3.24.3:
     "@babel/runtime" "^7.5.5"
     broadcast-channel "^3.4.1"
     match-sorter "^6.0.2"
-
-react-redux@7.2.3:
-  version "7.2.3"
-  resolved "https://registry.yarnpkg.com/react-redux/-/react-redux-7.2.3.tgz#4c084618600bb199012687da9e42123cca3f0be9"
-  integrity sha512-ZhAmQ1lrK+Pyi0ZXNMUZuYxYAZd59wFuVDGUt536kSGdD0ya9Q7BfsE95E3TsFLE3kOSFp5m6G5qbatE+Ic1+w==
-  dependencies:
-    "@babel/runtime" "^7.12.1"
-    "@types/react-redux" "^7.1.16"
-    hoist-non-react-statics "^3.3.2"
-    loose-envify "^1.4.0"
-    prop-types "^15.7.2"
-    react-is "^16.13.1"
 
 react-redux@7.2.8:
   version "7.2.8"
